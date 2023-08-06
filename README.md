@@ -159,7 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 Arif Issah - [Github](https://github.com/Arif1000000) / [Twitter](https: twitter.com/issaharif)
-Dulgan Danjuma - [Github](https://github.com/Dulgan1)
+Dulgan Danjuma - [Github](https://github.com/Dulgan1) / [Twitter](https://twitter.com/DanjumaDulgan)
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
