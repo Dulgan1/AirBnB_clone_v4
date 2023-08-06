@@ -18,7 +18,7 @@ $(document).ready(function () {
   $(function () {
     $.ajax({
       type: 'GET',
-      url: 'http://0.0.0.0:5001/api/v1/status/'
+      url: 'http://0.0.0.0:5001/api/v1/status/',
       success: function (api) {
         if (api.status === 200) {
           $('div#api_status').addClass('available');
@@ -26,6 +26,6 @@ $(document).ready(function () {
           $('div#api_status').removeClass('available');
 	}
       }
-    })
+    });
   });
 });
